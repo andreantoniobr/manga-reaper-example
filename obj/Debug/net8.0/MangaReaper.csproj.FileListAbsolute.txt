@@ -1,0 +1,14 @@
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\bin\Debug\net8.0\MangaReaper.exe
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\bin\Debug\net8.0\MangaReaper.deps.json
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\bin\Debug\net8.0\MangaReaper.runtimeconfig.json
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\bin\Debug\net8.0\MangaReaper.dll
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\bin\Debug\net8.0\MangaReaper.pdb
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\MangaReaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\MangaReaper.AssemblyInfoInputs.cache
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\MangaReaper.AssemblyInfo.cs
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\MangaReaper.csproj.CoreCompileInputs.cache
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\MangaReaper.dll
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\refint\MangaReaper.dll
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\MangaReaper.pdb
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\MangaReaper.genruntimeconfig.cache
+C:\Users\André e Mary\Desktop\GameDevPro\Projects\MangaReaper\obj\Debug\net8.0\ref\MangaReaper.dll
